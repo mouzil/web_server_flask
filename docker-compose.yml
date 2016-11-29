@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+    web:
+        container_name: web_flask
+        build: . #on lui désigne la zone de build qui est le Dockerfile, c'est limage qui est sur dockerhub
+        ports:
+            - "5000:5000"
+        network_mode: "host"
