@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/docker-web-flask.iml" filepath="$PROJECT_DIR$/.idea/docker-web-flask.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/web_server_flask.iml" filepath="$PROJECT_DIR$/.idea/web_server_flask.iml" />
+>>>>>>> 65ad79c8fb6f58df060470faca3feea58c93b9da
     </modules>
   </component>
 </project>
